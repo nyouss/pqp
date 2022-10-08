@@ -1,13 +1,13 @@
 ManifestFileVersion: 0
-CRC: 2212744746
+CRC: 1047514350
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: details/settings
+      Name: details/localizations
       Dependencies: {}
     Info_1:
       Name: details/flags
       Dependencies: {}
     Info_2:
-      Name: details/localizations
+      Name: details/settings
       Dependencies: {}
