@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 185140775
+CRC: 3751273345
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bb1060deb003fa88aa77d03a8b4a7360
+    Hash: b4b443d0a26761ab7cb5bea6456025f7
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
@@ -15,7 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/PictureQuizPlus/Resources/details/flags/french.png
+- Assets/PictureQuizPlus/Resources/details/flags/francaise.png
 - Assets/PictureQuizPlus/Resources/details/flags/english.png
 - Assets/PictureQuizPlus/Resources/details/flags/deutsch.png
 Dependencies: []
