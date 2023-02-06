@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1338906611
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68e3a1c2636bd8586f2d12466aa7f0bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 565f54c634bcff8b7d12673a51dba509
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: ae28374fa1d28e84d89ef31a27fdba89, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Category
+- AssemblyName: Assembly-CSharp
+  ClassName: Level
+- AssemblyName: Assembly-CSharp
+  ClassName: LocalizationItem
+Assets:
+- Assets/PictureQuizPlus/Resources/details/localizations/english.asset
+- Assets/PictureQuizPlus/Resources/details/localizations/deutsch.asset
+- Assets/PictureQuizPlus/Resources/details/localizations/french.asset
+Dependencies: []
